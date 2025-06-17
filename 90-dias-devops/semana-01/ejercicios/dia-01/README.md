@@ -66,20 +66,20 @@ Usando solo comandos en la terminal, respondé estas preguntas:
   uptime
   ```
 
-![Comandos whoami y pwd](./imagenes/p1-4.png)
+![Comando uptime](./imagenes/p1-4.png)
 
 * ¿Qué procesos están consumiendo más recursos?
 
   ```bash
   top
   ```
-![Comandos whoami y pwd](./imagenes/p1-5.png)
+![Comando top](./imagenes/p1-5.png)
 * ¿Cuánta memoria disponible tenés?
 
   ```bash
   free -h
   ```
-![Comandos whoami y pwd](./imagenes/p1-6.png)
+![Comando free -h](./imagenes/p1-6.png)
 
 
 ## 4. 📺 Recurso recomendado
@@ -114,3 +114,4 @@ Los beneficios que busca traer son:
   **#DevOpsConRoxs**
   *(¡siempre se aprende más compartiendo!)*
 
+![Screenshot subida ejercicio](./imagenes/dia1_ss.png)
